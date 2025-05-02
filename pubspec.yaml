@@ -32,7 +32,8 @@ dependencies:
     sdk: flutter
   camera: ^0.10.5+2
   image_picker: ^1.0.4
-  tflite: ^1.1.2
+  tflite: 
+    path: packages/tflite
   path_provider: ^2.1.2
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
